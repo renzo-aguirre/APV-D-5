@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Satisfy&display=swap');
+
+body{
+    display: flex;
+    flex-wrap:wrap;
+    background-image: url("/img/background2.jpg");
+    background-position: center;
+    background-size: auto;
+}
+
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin: 10px;
+    border: black solid 5px;
+    border-radius: 5px;
+    background-color: moccasin;
+    font-family: 'Satisfy', cursive;
+    font-size: large;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+img{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
